@@ -6,7 +6,20 @@
     <description>Recent content in Articles on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 00:32:33 +0800</lastBuildDate><atom:link href="https://myusername886.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jun 2022 22:29:14 +0800</lastBuildDate><atom:link href="https://myusername886.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关键字,标识符,保留标识符</title>
+      <link>https://myusername886.github.io/articles/%E5%85%B3%E9%94%AE%E5%AD%97%E6%A0%87%E8%AF%86%E7%AC%A6%E4%BF%9D%E7%95%99%E6%A0%87%E8%AF%86%E7%AC%A6/</link>
+      <pubDate>Wed, 15 Jun 2022 22:29:14 +0800</pubDate>
+      
+      <guid>https://myusername886.github.io/articles/%E5%85%B3%E9%94%AE%E5%AD%97%E6%A0%87%E8%AF%86%E7%AC%A6%E4%BF%9D%E7%95%99%E6%A0%87%E8%AF%86%E7%AC%A6/</guid>
+      <description>[TOC]
+标识符 标识符命名规则:
+只能由数字, 字母和下划线组成. 只能由字母和下划线开头. 区分大小写. 编译器只能识别前 63 个字符. 保留标识符 操作系统和 C 库等经常使用以一个或两个下划线就开头的标识符, 这些标识符被称为保留标识符.
+如果程序中使用保留标识符, 不会引发语法错误, 但会导致名称冲突.
+关键字 关键字是 C 语言的词汇, 不能用作标识符, 否则引发语法错误.</description>
+    </item>
+    
     <item>
       <title>C语言的注释</title>
       <link>https://myusername886.github.io/articles/c%E8%AF%AD%E8%A8%80%E7%9A%84%E6%B3%A8%E9%87%8A/</link>
